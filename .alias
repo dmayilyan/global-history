@@ -1,0 +1,6 @@
+alias root="root -l"
+alias grep="grep --color"
+alias pgr='cat ~/.persistent_history|grep'
+alias hgr='history|grep'
+
+#alias ls='ls -sph --color'
